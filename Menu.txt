@@ -1,4 +1,5 @@
 Ristorante: Da CodeVacciulo
 tipo menu: Carne
+Primi piatti: Pasta salsa e polpette,
 seconda portata: Filetto di maiale al caffè con chutney di zucca e mela, con cialda di polenta
 Bibite: Coca cola, Acqua, Aranciata

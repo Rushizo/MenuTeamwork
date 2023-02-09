@@ -1,6 +1,6 @@
 Ristorante: Da CodeVacciulo
 tipo menu: Carne
-Antipasti: Cocktail di gamberetti
+Antipasti: Cocktail di gamberetti, tartine al tonno
 Primi piatti: Pasta salsa e polpette,
 seconda portata: Filetto di maiale al caffè con chutney di zucca e mela, con cialda di polenta
 Bibite: Coca cola, Acqua, Aranciata

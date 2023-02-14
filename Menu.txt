@@ -3,4 +3,5 @@ tipo menu: Carne
 Antipasti: Cocktail di gamberetti
 Primi piatti: Pasta salsa e polpette,
 seconda portata: Filetto di maiale al caffè con chutney di zucca e mela, con cialda di polenta
+Dessert: Panna cotta al pistaccio con scaglie di cioccolato, Torta della nonna, Tiramisù
 Bibite: Coca cola, Acqua, Aranciata
